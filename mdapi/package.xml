@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>CustomApplication</name>
+    <members>Battle_Station_Construction</members>
+    <members>Battle_Station_Construction_Lightning</members>
+  </types>
+  <types>
+    <name>AuraDefinitionBundle</name>
+    <members>BattleStationDetail</members>
+    <members>BattleStationItem</members>
+    <members>BattleStationsList</members>
+    <members>ResourceList</members>
+    <members>StationClickEvent</members>
+    <members>StationRelatedLists</members>
+    <members>SupplyList</members>
+    <members>updatedListEvent</members>
+  </types>
+  <types>
+    <name>ApexClass</name>
+    <members>BattleStationUtil</members>
+  </types>
+  <types>
+    <name>FlexiPage</name>
+    <members>Battle_Station_Manager</members>
+  </types>
+  <types>
+    <name>CustomTab</name>
+    <members>Battle_Station_Manager</members>
+  </types>
+  <version>42.0</version>
+</Package>
